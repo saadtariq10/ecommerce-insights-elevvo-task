@@ -4,6 +4,14 @@ Analyze and visualize the Brazilian e-commerce market using real-world data. Thi
 
 ---
 
+### 📊 Power BI Dashboard Preview
+
+![Power BI Dashboard](data_analysis_dashboard.gif)
+
+> 🎥 This animated GIF demonstrates the interactive Power BI dashboard built from the cleaned Olist e-commerce dataset. It includes insights into revenue, review scores, payment types, and customer distribution.
+
+---
+
 ## 🚀 Project Overview
 
 This project is based on Task 9 from the **Data Analytics Industry-Level Tasks**. It focuses on building end-to-end business intelligence from the **Brazilian E-Commerce Public Dataset by Olist** (available on Kaggle).
